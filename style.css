@@ -63,6 +63,7 @@ img{
 .flex{
     display: flex;
     justify-content: center;
+    gap: 10px 10px;
     
 }
 .btn{
@@ -74,5 +75,8 @@ img{
     font-size: 24px;
     font-weight: bold;
     border-radius: 10px;
+}
+.btn2{
+    background: blueviolet;
 }
 
