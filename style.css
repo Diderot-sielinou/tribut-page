@@ -60,4 +60,19 @@ img{
 .fo h3{
    margin-top: 45px;
 }
+.flex{
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    margin: 20px 0px;
+    padding: 20px 30px;
+    color: white;
+    background: green;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+}
 
